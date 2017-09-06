@@ -5,8 +5,10 @@ This project, taken from [zend documentation](https://docs.zendframework.com/tut
 To run this project on your UNIX machine, you have to:
 
 - Clone the repo: `git clone git@github.com:JuanRamino/zf-tutorial.git`
-- Move in the project root directory: `cd zf-tutorial`
+- Move into the project root directory: `cd zf-tutorial`
 - Install dependency with: `composer install`
 - Run the webserver: `php -S 0.0.0.0:8080 -t public/ public/index.php`
 
 You should visit [http://0.0.0.0:8080](http://0.0.0.0:8080) in your browser to see the application running
+
+The brandh *custom* add some features to the base project. You should have a look to it!
